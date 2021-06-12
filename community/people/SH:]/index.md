@@ -1,4 +1,4 @@
-
+---
  layout: person
 title: Shai'Anthony Huff
 image: 
