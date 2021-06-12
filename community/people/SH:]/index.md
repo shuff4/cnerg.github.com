@@ -4,7 +4,6 @@ title: Shai'Anthony Huff
 image: 
 role: Nuclear Engineering Undergrad
 email: 
-  - shuff2@scsu.edu 
   - huff.shaianthony8@gmail.com 
 room: Virtual 
 address: South Carolina 
