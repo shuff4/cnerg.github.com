@@ -1,7 +1,7 @@
 ---
 Layout: Person
 Title: Shai'Anthony Huff
-Image: 
+Image: IMG-0456.jpg
 Role: Nuclear Engineering Undergrad
 Email: 
   - huff.shaianthony8@gmail.com 
