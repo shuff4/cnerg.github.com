@@ -74,10 +74,14 @@
   - name: "Matthew Nyberg"
     url: "mn"
     role: "Undergraduate Researcher"
-  - name: "Bradly Laufenberg"
+  - name: "Bradly Laufengurg"
     url: "bl"
     role: "Undergraduate Researcher"
     image: laufenberg.jpg
+  - name: "Shai'Anthony Huff"
+    url: "SH:]"
+    role: "Undergraduate Summer Intern"
+    image: IMG-0456.jpg
 
 - group: 'Alumni'
   people:
